@@ -30,8 +30,8 @@ You can clone the repo and view it in a browser, or checkout the GitHub pages de
 
 You navigate to the deployed version of this site using the GitHub pages link, or you clone the code and open it locally. There are no dependencies, as this is a simple HTML and CSS website. It does require an internet connection because it utilizes the Bootstrap CDN.
 
-![Screenshot 1](assets/images/screen1.png)
-![Screenshot 2](assets/images/screen2.png)
+![Screenshot 1](Assets/images/screen1.png)
+![Screenshot 2](Assets/images/screen2.png)
 
 ## Contribute
 
