@@ -4,7 +4,7 @@
 
 ## Description
 
-For this revision of my portfolio, I completely changed the website. I made the website a single page, as is customary with developer portfolios. I utilized Bootstrap icons to make the links in the contact section and navbar look more professional. I removed unnecessary JavaScript that was included in the last version. Next, I selected current completed assignments that demonstrate how my skillset has improved over the course of the bootcamp. I also added a gradient to the jumbotron at the top of the page to improve the aesthetics of the site.
+For this revision of my portfolio, I changed the strucutre and styling of my website. I made the website a single page, as is customary with developer portfolios. I utilized Bootstrap icons to make the links in the contact section and navbar look more professional. I removed unnecessary JavaScript that was included in the last version. Next, I selected current completed assignments that demonstrate how my skillset has improved over the course of the bootcamp. I also added a gradient to the jumbotron at the top of the page to improve the aesthetics of the site.
 
 ## Table of Contents
 
