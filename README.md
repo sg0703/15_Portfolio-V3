@@ -4,7 +4,7 @@
 
 ## Description
 
-For this revision of my portfolio, I changed the strucutre and styling of my website. I made the following changes:
+For this revision of my portfolio, I changed the structure and styling of my website. I made the following changes:
 
 - Website is now a single page, as is customary with developer portfolios
 - Style changes so that the page is responsive and displays properly on small screens
